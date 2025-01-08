@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35244042786",
+    "project_id": "joke-api-513d5",
+    "storage_bucket": "joke-api-513d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35244042786:android:e7dd7bd6c2115d8db9b87b",
+        "android_client_info": {
+          "package_name": "labs.finki.ukim.mk.joke_api_update"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOvlY5JSHe6FT4IBu6ww7lbvH5VfRNs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
